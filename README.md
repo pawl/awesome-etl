@@ -24,7 +24,7 @@ A curated list of awesome ETL (extract, transform, load) frameworks, libraries a
 ### Libraries
 * [Pandas](http://pandas.pydata.org/)
 * [PETL](https://github.com/alimanfoo/petl)
-* [PETL](https://github.com/stiivi/bubbles)
+* [Bubbles](https://github.com/stiivi/bubbles)
 * [SQL-Alchemy](http://www.sqlalchemy.org/)
 * [Dask](https://github.com/blaze/dask)
 * [Blaze](https://github.com/blaze/blaze)
