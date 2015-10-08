@@ -1,6 +1,17 @@
 # awesome-etl
 A curated list of notable ETL (extract, transform, load) frameworks, libraries and software.
 
+- [Awesome ETL](#awesome-etl)
+    - [ETL Tools (GUI)](#etl-tools-gui)
+    - [Workflow Management/Engines](#workflow-managementengines)
+    - [Job Scheduling](#job-scheduling)
+    - [Python](#python)
+    - [Ruby](#ruby)
+    - [Go](#go)
+    - [Talks/Articles](#talksarticles-1)
+    - [Cloud Services](#cloud-services)
+    - [Big Data (Hadoop Stack)](#big-data-hadoop-stack)
+
 
 ## ETL Tools (GUI)
 * [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - "Rich library of pre-built components to access and transform data from a full spectrum of sources." and "Visual interface to call custom code, analyze images and video files to create meaningful metadata."
