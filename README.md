@@ -1,53 +1,53 @@
 # awesome-etl
-A curated list of awesome ETL (extract, transform, load) frameworks, libraries and software.
+A curated list of notable ETL (extract, transform, load) frameworks, libraries and software.
+
 
 ## ETL Tools (GUI)
-* [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/)
-* [Talend](https://www.talend.com/products/talend-open-studio)
-* [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html)
-* [Microsoft SSIS](https://technet.microsoft.com/en-us/library/ms141026.aspx)
+* [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - "Rich library of pre-built components to access and transform data from a full spectrum of sources." and "Visual interface to call custom code, analyze images and video files to create meaningful metadata."
+* [Talend](https://www.talend.com/products/talend-open-studio) - "an open source application for data integration job design with a graphical development environment"
+* [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - "a toolset for establishing and maintaining enterprise-wide data warehouses. It has a customer base of over 5,000 companies."
+* [Microsoft SSIS](https://technet.microsoft.com/en-us/library/ms141026.aspx) - "a component of the Microsoft SQL Server database software that can be used to perform a broad range of data migration tasks."
+* [Apache NiFi](https://nifi.apache.org/) - "a rich, web-based interface for designing, controlling, and monitoring a dataflow."
 
 ## Workflow Management/Engines
-* [Luigi](https://github.com/spotify/luigi)
-* [TaskFlow](https://wiki.openstack.org/wiki/TaskFlow)
-* [Airflow](https://github.com/airbnb/airflow)
-* [Pinball](https://github.com/pinterest/pinball)
-* [Azkaban](https://azkaban.github.io/)
-* [Dray.it](http://dray.it/)
-* [Apache NiFi](https://nifi.apache.org/)
+* [Luigi](https://github.com/spotify/luigi) - "a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in."
+* [TaskFlow](https://wiki.openstack.org/wiki/TaskFlow) - "allows the creation of lightweight task objects and/or functions that are combined together into flows (aka: workflows) in a declarative manner. It includes engines for running these flows in a manner that can be stopped, resumed, and safely reverted."
+* [Airflow](https://github.com/airbnb/airflow) - "Use airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed."
+* [Pinball](https://github.com/pinterest/pinball) - "a scalable workflow management platform developed at Pinterest. It is built based on layered approach."
+* [Azkaban](https://azkaban.github.io/) - "a batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy to use web user interface to maintain and track your workflows."
+* [Dray.it](http://dray.it/) - "Docker workflow engine. Allows users to separate a workflow into discrete steps each to be handled by a single container."
 
 ## Job Scheduling
-* [Chronos](https://github.com/mesos/chronos)
-* [Dagobah](https://github.com/thieman/dagobah)
+* [Chronos](https://github.com/mesos/chronos) - "a distributed and fault-tolerant scheduler that runs on top of Apache Mesos that can be used for job orchestration."
+* [Dagobah](https://github.com/thieman/dagobah) - "a simple dependency-based job scheduler written in Python. Dagobah allows you to schedule periodic jobs using Cron syntax. Each job then kicks off a series of tasks (subprocesses) in an order defined by a dependency graph you can easily draw with click-and-drag in the web interface."
 
 ## Python
 ### Libraries
-* [Pandas](http://pandas.pydata.org/)
-* [PETL](https://github.com/alimanfoo/petl)
-* [Bubbles](https://github.com/stiivi/bubbles)
-* [SQL-Alchemy](http://www.sqlalchemy.org/)
-* [Dask](https://github.com/blaze/dask)
-* [Blaze](https://github.com/blaze/blaze)
-* [Odo](https://github.com/blaze/odo)
-* [xmltodict](https://github.com/martinblech/xmltodict)
-* [Celery](http://www.celeryproject.org/)
-* [MrJob](https://pythonhosted.org/mrjob/)
-* [Joblib](https://pythonhosted.org/joblib/)
-* [Orange](http://orange.biolab.si/)
-* [datastreams](https://github.com/StuartAxelOwen/datastreams)
+* [Pandas](http://pandas.pydata.org/) - "offers data structures and operations for manipulating numerical tables and time series."
+* [PETL](https://github.com/alimanfoo/petl) - "a general purpose Python package for extracting, transforming and loading tables of data."
+* [Bubbles](https://github.com/stiivi/bubbles) - "a Python ETL Framework and set of tools. It can be used for processing, auditing and inspecting data. Focus is on understandability and transparency of the process."
+* [SQLAlchemy](http://www.sqlalchemy.org/) - "the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL."
+* [Dask](https://github.com/blaze/dask) - "lets us use traditional NumPy, Pandas, and list programming while operating on inconveniently large data in a small amount of space."
+* [Blaze](https://github.com/blaze/blaze) - "translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems."
+* [Odo](https://github.com/blaze/odo) - "migrates data using network of small data conversion functions between type pairs."
+* [xmltodict](https://github.com/martinblech/xmltodict) - "makes working with XML feel like you are working with JSON. Has a streaming mode with a small memory footprint, suitable for big XML dumps."
+* [Celery](http://www.celeryproject.org/) - "an asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well."
+* [MrJob](https://pythonhosted.org/mrjob/) - "lets you write MapReduce jobs in Python 2.6+ and run them on several platforms. The easiest route to writing Python programs that run on Hadoop."
+* [Joblib](https://pythonhosted.org/joblib/) - "a set of tools to provide lightweight pipelining in Python."
+* [Orange](http://orange.biolab.si/) - "data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining. Packed with features for data analytics."
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/)
-* [PyQuery](https://pythonhosted.org/pyquery/)
+* [PyQuery](https://pythonhosted.org/pyquery/) - "as much as possible the similar to jquery. pyquery uses lxml for fast xml and html manipulation."
 
 ### Talks/Articles
 * https://vimeo.com/73628111
 * http://www.parsely.com/misc/slides/streamparse/notes/
 
 ## Ruby
-* [Kiba](https://github.com/thbar/kiba)
+* [Kiba](https://github.com/thbar/kiba) - "provides you with a DSL to define ETL jobs"
 * [Square ETL](https://github.com/square/etl)
 
 ## Go
-* [Crunch](https://github.com/jondot/crunch)
+* [Crunch](https://github.com/jondot/crunch) - "A fast to develop, fast to run, Go based toolkit for ETL and feature extraction on Hadoop."
 
 ## Talks/Articles
 * https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83
@@ -59,11 +59,11 @@ A curated list of awesome ETL (extract, transform, load) frameworks, libraries a
 * http://blog.cloudera.com/wp-content/uploads/2010/01/IntroToPig.pdf
 
 ## Cloud Services
-* [Google Dataflow](https://cloud.google.com/dataflow/what-is-google-cloud-dataflow)
-* [Amazon Data Pipeline](https://aws.amazon.com/datapipeline/)
-* [Amazon SWF](https://aws.amazon.com/swf/)
-* [Snaplogic](http://www.snaplogic.com/)
+* [Google Dataflow](https://cloud.google.com/dataflow/what-is-google-cloud-dataflow) - "Google Cloud Dataflow provides a simple, powerful model for building both batch and streaming parallel data processing pipelines."
+* [Amazon Data Pipeline](https://aws.amazon.com/datapipeline/) - "a web service that helps you reliably process and move data between different AWS compute and storage services, as well as on-premise data sources, at specified intervals."
+* [Amazon SWF](https://aws.amazon.com/swf/) - "helps developers build, run, and scale background jobs that have parallel or sequential steps. You can think of Amazon SWF as a fully-managed state tracker and task coordinator in the Cloud."
+* [Snaplogic](http://www.snaplogic.com/) - "a self-upgrading, elastic execution grid that streams data between applications, databases, files, social and big data sources."
 
 ## Big Data (Hadoop Stack)
-* [Spark](https://spark.apache.org/docs/0.9.0/index.html)
-* [Pig](https://pig.apache.org/)
+* [Spark](https://spark.apache.org/docs/0.9.0/index.html) - "a fast and general-purpose cluster computing system. It provides high-level APIs in Scala, Java, and Python that make parallel jobs easy to write, and an optimized engine that supports general computation graphs. It also supports a rich set of higher-level tools including Shark (Hive on Spark), MLlib for machine learning, GraphX for graph processing, and Spark Streaming."
+* [Pig](https://pig.apache.org/) - "a platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs."
