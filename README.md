@@ -14,7 +14,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 
 
 ## ETL Tools (GUI)
-* [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - "Rich library of pre-built components to access and transform data from a full spectrum of sources." and "Visual interface to call custom code, analyze images and video files to create meaningful metadata."
+* [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
 * [Talend](https://www.talend.com/products/talend-open-studio) - "an open source application for data integration job design with a graphical development environment"
 * [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - "a toolset for establishing and maintaining enterprise-wide data warehouses. It has a customer base of over 5,000 companies."
 * [Microsoft SSIS](https://technet.microsoft.com/en-us/library/ms141026.aspx) - "a component of the Microsoft SQL Server database software that can be used to perform a broad range of data migration tasks."
@@ -34,20 +34,21 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 
 ## Python
 ### Libraries
-* [Pandas](http://pandas.pydata.org/) - "offers data structures and operations for manipulating numerical tables and time series."
-* [PETL](https://github.com/alimanfoo/petl) - "a general purpose Python package for extracting, transforming and loading tables of data."
+* [Pandas](http://pandas.pydata.org/) - Implements dataframes in Python for easier data processing and includes a number of tools that make it easier to extract data from multiple file formats.
 * [Bubbles](https://github.com/stiivi/bubbles) - "a Python ETL Framework and set of tools. It can be used for processing, auditing and inspecting data. Focus is on understandability and transparency of the process."
 * [SQLAlchemy](http://www.sqlalchemy.org/) - "the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL."
-* [Dask](https://github.com/blaze/dask) - "lets us use traditional NumPy, Pandas, and list programming while operating on inconveniently large data in a small amount of space."
+* [dataset](https://dataset.readthedocs.org/en/latest/) - A wrapper around SQLAlchemy that simplifies database operations (including upserting).
+* [Dask](https://github.com/blaze/dask) - Ever tried using Pandas to process data that won't fit into memory? Dask makes it easy.
 * [Blaze](https://github.com/blaze/blaze) - "translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems."
-* [Odo](https://github.com/blaze/odo) - "migrates data using network of small data conversion functions between type pairs."
-* [xmltodict](https://github.com/martinblech/xmltodict) - "makes working with XML feel like you are working with JSON. Has a streaming mode with a small memory footprint, suitable for big XML dumps."
+* [Odo](https://github.com/blaze/odo) - Moves data across containers (SQL, CSV, MongoDB, Pandas, etc). Claims to be the easiest and fastest way to load a CSV into your database.
+* [xmltodict](https://github.com/martinblech/xmltodict) - Makes working with XML as easy as working with JSON. Also allows streaming so you don't run out of memory on large XML files.
 * [Celery](http://www.celeryproject.org/) - "an asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well."
 * [MrJob](https://pythonhosted.org/mrjob/) - "lets you write MapReduce jobs in Python 2.6+ and run them on several platforms. The easiest route to writing Python programs that run on Hadoop."
 * [Joblib](https://pythonhosted.org/joblib/) - "a set of tools to provide lightweight pipelining in Python."
 * [Orange](http://orange.biolab.si/) - "data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining. Packed with features for data analytics."
-* [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/)
-* [PyQuery](https://pythonhosted.org/pyquery/) - "as much as possible the similar to jquery. pyquery uses lxml for fast xml and html manipulation."
+* [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - Popular library used to extract data from web pages.
+* [PyQuery](https://pythonhosted.org/pyquery/) - Extracts data from web pages with a jquery-like syntax.
+* [PETL](https://github.com/alimanfoo/petl) - "a general purpose Python package for extracting, transforming and loading tables of data." Slower than Pandas and not as good for larger amounts of data, but simpler.
 
 ### Talks/Articles
 * https://vimeo.com/73628111
@@ -68,6 +69,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * http://www.slideshare.net/CasertaConcepts/big-data-warehousing-meetup-bigetl-trad-tool-vs-pig-vs-hive-vs-python-what-to-use-when-slide-set-2
 * https://deepfriedcode.com/books/darps/index.html
 * http://blog.cloudera.com/wp-content/uploads/2010/01/IntroToPig.pdf
+* http://tech.adroll.com/blog/data/2015/10/15/luigi.html?adrolldev
 
 ## Cloud Services
 * [Google Dataflow](https://cloud.google.com/dataflow/what-is-google-cloud-dataflow) - "Google Cloud Dataflow provides a simple, powerful model for building both batch and streaming parallel data processing pipelines."
