@@ -8,6 +8,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
     - [Python](#python)
     - [Ruby](#ruby)
     - [Go](#go)
+    - [Salesforce](#salesforce)
     - [Talks/Articles](#talksarticles-1)
     - [Cloud Services](#cloud-services)
     - [Big Data (Hadoop Stack)](#big-data-hadoop-stack)
@@ -61,6 +62,11 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 
 ## Go
 * [Crunch](https://github.com/jondot/crunch) - "A fast to develop, fast to run, Go based toolkit for ETL and feature extraction on Hadoop."
+
+## Salesforce
+* [Data Loader](https://developer.salesforce.com/page/Data_Loader) - "is an easy to use graphical tool that helps you to get your data into Salesforce objects."
+* [SFXOrgData](https://www.sfapex.com/) - "copy data from your Production or Full Sandbox environment to Developer/Dev Pro sandboxes."
+* [DreamFactory Monarch](http://www.dreamfactory.com/force.com/monarch) - "migrate related sets of data between Orgs."
 
 ## Talks/Articles
 * https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83
