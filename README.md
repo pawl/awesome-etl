@@ -12,6 +12,8 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
     - [Cloud Services](#cloud-services)
     - [Big Data (Hadoop Stack)](#big-data-hadoop-stack)
 
+## Related Lists
+* [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
 
 ## ETL Tools (GUI)
 * [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
@@ -36,6 +38,8 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 ### Libraries
 * [Pandas](http://pandas.pydata.org/) - Implements dataframes in Python for easier data processing and includes a number of tools that make it easier to extract data from multiple file formats.
 * [Bubbles](https://github.com/stiivi/bubbles) - "a Python ETL Framework and set of tools. It can be used for processing, auditing and inspecting data. Focus is on understandability and transparency of the process."
+* [Ruffus](https://pypi.python.org/pypi/ruffus) - "The Ruffus module is a lightweight way to add support for running computational pipelines."
+* [Stream.py](https://github.com/aht/stream.py) - "Lazily-evaluated, parallelizable Python pipeline."
 * [SQLAlchemy](http://www.sqlalchemy.org/) - "the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL."
 * [dataset](https://dataset.readthedocs.org/en/latest/) - A wrapper around SQLAlchemy that simplifies database operations (including upserting).
 * [Dask](https://github.com/blaze/dask) - Ever tried using Pandas to process data that won't fit into memory? Dask makes it easy.
@@ -61,6 +65,10 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 ## Go
 * [Crunch](https://github.com/jondot/crunch) - "A fast to develop, fast to run, Go based toolkit for ETL and feature extraction on Hadoop."
 
+## Javascript
+* [NoFlo](http://noflojs.org/) - "a JavaScript implementation of Flow-Based Programming"
+* [Datapumps](https://github.com/agmen-hu/node-datapumps) - "Use pumps to import, export, transform or transfer data."
+
 ## Talks/Articles
 * https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83
 * http://www.slideshare.net/g33ktalk/data-pipeline-acial-lyceum20140624
@@ -76,6 +84,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Amazon Data Pipeline](https://aws.amazon.com/datapipeline/) - "a web service that helps you reliably process and move data between different AWS compute and storage services, as well as on-premise data sources, at specified intervals."
 * [Amazon SWF](https://aws.amazon.com/swf/) - "helps developers build, run, and scale background jobs that have parallel or sequential steps. You can think of Amazon SWF as a fully-managed state tracker and task coordinator in the Cloud."
 * [Snaplogic](http://www.snaplogic.com/) - "a self-upgrading, elastic execution grid that streams data between applications, databases, files, social and big data sources."
+* [Alterxy](http://www.alteryx.com/) - Cloud ETL tool with an interface similar to GUI ETL tools.
 
 ## Big Data (Hadoop Stack)
 * [Spark](https://spark.apache.org/docs/0.9.0/index.html) - "a fast and general-purpose cluster computing system. It provides high-level APIs in Scala, Java, and Python that make parallel jobs easy to write, and an optimized engine that supports general computation graphs. It also supports a rich set of higher-level tools including Shark (Hive on Spark), MLlib for machine learning, GraphX for graph processing, and Spark Streaming."
