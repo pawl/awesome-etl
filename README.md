@@ -54,6 +54,8 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - Popular library used to extract data from web pages.
 * [PyQuery](https://pythonhosted.org/pyquery/) - Extracts data from web pages with a jquery-like syntax.
 * [PETL](https://github.com/alimanfoo/petl) - "a general purpose Python package for extracting, transforming and loading tables of data." Slower than Pandas and not as good for larger amounts of data, but simpler.
+* [Retrying](https://github.com/rholder/retrying) - Allows you to add a decorator to any function/method to retry on an exception.
+* [lxml](https://github.com/lxml/lxml) - Python's fast XML parser with a ton of functionality. Also supports a "recover" mode that will try its best to use invalid xml or discard it.
 
 ### Talks/Articles
 * https://vimeo.com/73628111
@@ -62,6 +64,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 ## Ruby
 * [Kiba](https://github.com/thbar/kiba) - "provides you with a DSL to define ETL jobs"
 * [Square ETL](https://github.com/square/etl)
+* [nokogiri](https://github.com/sparklemotion/nokogiri) - an excellent XML parser that "just works"
 
 ## Go
 * [Crunch](https://github.com/jondot/crunch) - "A fast to develop, fast to run, Go based toolkit for ETL and feature extraction on Hadoop."
