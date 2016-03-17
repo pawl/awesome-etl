@@ -40,7 +40,6 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Pandas](http://pandas.pydata.org/) - Implements dataframes in Python for easier data processing and includes a number of tools that make it easier to extract data from multiple file formats.
 * [Bubbles](https://github.com/stiivi/bubbles) - "a Python ETL Framework and set of tools. It can be used for processing, auditing and inspecting data. Focus is on understandability and transparency of the process."
 * [Ruffus](https://pypi.python.org/pypi/ruffus) - "The Ruffus module is a lightweight way to add support for running computational pipelines."
-* [Stream.py](https://github.com/aht/stream.py) - "Lazily-evaluated, parallelizable Python pipeline."
 * [SQLAlchemy](http://www.sqlalchemy.org/) - "the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL."
 * [dataset](https://dataset.readthedocs.org/en/latest/) - A wrapper around SQLAlchemy that simplifies database operations (including upserting).
 * [Dask](https://github.com/blaze/dask) - Ever tried using Pandas to process data that won't fit into memory? Dask makes it easy.
