@@ -49,7 +49,6 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Celery](http://www.celeryproject.org/) - "an asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well."
 * [MrJob](https://pythonhosted.org/mrjob/) - "lets you write MapReduce jobs in Python 2.6+ and run them on several platforms. The easiest route to writing Python programs that run on Hadoop."
 * [Joblib](https://pythonhosted.org/joblib/) - "a set of tools to provide lightweight pipelining in Python."
-* [Orange](http://orange.biolab.si/) - "data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining. Packed with features for data analytics."
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - Popular library used to extract data from web pages.
 * [PyQuery](https://pythonhosted.org/pyquery/) - Extracts data from web pages with a jquery-like syntax.
 * [PETL](https://github.com/alimanfoo/petl) - "a general purpose Python package for extracting, transforming and loading tables of data." Slower than Pandas and not as good for larger amounts of data, but simpler.
