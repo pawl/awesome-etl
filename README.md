@@ -56,6 +56,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Retrying](https://github.com/rholder/retrying) - Allows you to add a decorator to any function/method to retry on an exception.
 * [lxml](https://github.com/lxml/lxml) - Parses XML using C libraries libxml2 and libxslt, so it's very fast. Also supports a "recover" mode that will try its best to use invalid xml or discard it. Great for large XML files and advanced functionality (like using xpaths). IBM also has a great article on high-performance parsing with lxml here: http://www.ibm.com/developerworks/library/x-hiperfparse/
 * [Toolz](https://toolz.readthedocs.org/en/latest/) - "A functional standard library for python." Includes a `pipe` function that allows you to pipe a value through a sequence of functions. There's also a cython implementation here: https://github.com/pytoolz/cytoolz
+* [ijson](https://github.com/isagalaev/ijson) - Allows processing JSON iteratively (as a stream) without loading the whole file into memory at once.
 
 ### Talks/Articles
 * https://vimeo.com/73628111
