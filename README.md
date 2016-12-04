@@ -22,6 +22,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Microsoft SSIS](https://technet.microsoft.com/en-us/library/ms141026.aspx) - "a component of the Microsoft SQL Server database software that can be used to perform a broad range of data migration tasks."
 * [Apache NiFi](https://nifi.apache.org/) - "a rich, web-based interface for designing, controlling, and monitoring a dataflow."
 * [Jitterbit](http://www.jitterbit.com/) - "commercial software integration product that facilitates transport between legacy, enterprise, and on-demand computing applications."
+* [StreamSets Data Collector](http://streamsets.com/) - Powerful drag and drop UI that lets you build and operate reliable ingest pipelines.
 
 ## Workflow Management/Engines
 * [Luigi](https://github.com/spotify/luigi) - "a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in."
