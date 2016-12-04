@@ -2,7 +2,6 @@
 A curated list of notable ETL (extract, transform, load) frameworks, libraries and software.
 
 - [Awesome ETL](#awesome-etl)
-    - [ETL Tools (GUI)](#etl-tools-gui)
     - [Workflow Management/Engines](#workflow-managementengines)
     - [Job Scheduling](#job-scheduling)
     - [Python](#python)
@@ -11,17 +10,10 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
     - [Talks/Articles](#talksarticles-1)
     - [Cloud Services](#cloud-services)
     - [Big Data (Hadoop Stack)](#big-data-hadoop-stack)
+    - [ETL Tools (GUI)](#etl-tools-gui)
 
 ## Related Lists
 * [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
-
-## ETL Tools (GUI)
-* [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
-* [Talend](https://www.talend.com/products/talend-open-studio) - "an open source application for data integration job design with a graphical development environment"
-* [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - "a toolset for establishing and maintaining enterprise-wide data warehouses. It has a customer base of over 5,000 companies."
-* [Microsoft SSIS](https://technet.microsoft.com/en-us/library/ms141026.aspx) - "a component of the Microsoft SQL Server database software that can be used to perform a broad range of data migration tasks."
-* [Apache NiFi](https://nifi.apache.org/) - "a rich, web-based interface for designing, controlling, and monitoring a dataflow."
-* [Jitterbit](http://www.jitterbit.com/) - "commercial software integration product that facilitates transport between legacy, enterprise, and on-demand computing applications."
 
 ## Workflow Management/Engines
 * [Luigi](https://github.com/spotify/luigi) - "a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in."
@@ -96,3 +88,12 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 ## Big Data (Hadoop Stack)
 * [Spark](https://spark.apache.org/docs/0.9.0/index.html) - "a fast and general-purpose cluster computing system. It provides high-level APIs in Scala, Java, and Python that make parallel jobs easy to write, and an optimized engine that supports general computation graphs. It also supports a rich set of higher-level tools including Shark (Hive on Spark), MLlib for machine learning, GraphX for graph processing, and Spark Streaming."
 * [Pig](https://pig.apache.org/) - "a platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs."
+
+## ETL Tools (GUI)
+Note: If you're already familiar with a scripting language, GUI ETL tools are not a good replacement for a well structured application written with a scripting language. These tools lack flexibility and are a good example of the ["inner-platform effect"](https://en.wikipedia.org/wiki/Inner-platform_effect). With a large project, you will most likely run into instances where "the tool doesn't do that" and end up implementing something hacky with a script run by the GUI ETL tool. Also, the GUI can conceal complexity and the files these tools generate are impossible to code review. However, the GUI and out-of-the-box functionality can make some tasks simpler, especially for people not comfortable with writing code.
+* [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
+* [Talend](https://www.talend.com/products/talend-open-studio) - "an open source application for data integration job design with a graphical development environment"
+* [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - "a toolset for establishing and maintaining enterprise-wide data warehouses. It has a customer base of over 5,000 companies."
+* [Microsoft SSIS](https://technet.microsoft.com/en-us/library/ms141026.aspx) - "a component of the Microsoft SQL Server database software that can be used to perform a broad range of data migration tasks."
+* [Apache NiFi](https://nifi.apache.org/) - "a rich, web-based interface for designing, controlling, and monitoring a dataflow."
+* [Jitterbit](http://www.jitterbit.com/) - "commercial software integration product that facilitates transport between legacy, enterprise, and on-demand computing applications."
