@@ -64,6 +64,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * http://www.parsely.com/misc/slides/streamparse/notes/
 
 ## Ruby
+* [DataDuck ETL](http://dataducketl.com/) - An excellent ETL framework for ETLing to Amazon Redshift. Comes with prebuilt third party integrations (Airbrake, Optimizely, Sentry, SEMrush, etc)
 * [Kiba](https://github.com/thbar/kiba) - "provides you with a DSL to define ETL jobs"
 * [Square ETL](https://github.com/square/etl)
 * [nokogiri](https://github.com/sparklemotion/nokogiri) - an excellent XML parser that "just works"
