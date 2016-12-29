@@ -7,6 +7,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
     - [Python](#python)
     - [Ruby](#ruby)
     - [Go](#go)
+    - [Java] (#java)
     - [Talks/Articles](#talksarticles-1)
     - [Cloud Services](#cloud-services)
     - [Big Data (Hadoop Stack)](#big-data-hadoop-stack)
@@ -27,6 +28,13 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 ## Job Scheduling
 * [Chronos](https://github.com/mesos/chronos) - "a distributed and fault-tolerant scheduler that runs on top of Apache Mesos that can be used for job orchestration."
 * [Dagobah](https://github.com/thieman/dagobah) - "a simple dependency-based job scheduler written in Python. Dagobah allows you to schedule periodic jobs using Cron syntax. Each job then kicks off a series of tasks (subprocesses) in an order defined by a dependency graph you can easily draw with click-and-drag in the web interface."
+
+## Java
+* [Scriptella](http://scriptella.org/) - Java-XML ETL toolbox for every day use.
+* [GETL](https://sourceforge.net/projects/getl/) - Groovy toolbox for ETL Tasks from practicing architectures
+* [DataPipeLine](https://www.northconcepts.com/) - Java library for running performance oriented flows
+* [Spring Batch](http://projects.spring.io/spring-batch/) - ETL on Spring ecosystem
+* [JSR 352](https://www.jcp.org/en/jsr/detail?id=352) - Java native API for batch processing 
 
 ## Python
 ### Libraries
