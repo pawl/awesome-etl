@@ -106,3 +106,4 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Microsoft SSIS](https://technet.microsoft.com/en-us/library/ms141026.aspx) - "a component of the Microsoft SQL Server database software that can be used to perform a broad range of data migration tasks."
 * [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
 * [Talend](https://www.talend.com/products/talend-open-studio) - "an open source application for data integration job design with a graphical development environment"
+* [Advanced ETL Processor Enterprise](http://www.etl-tools.com/advanced-etl-processor-enterprise/overview.html) - "Commercial integration software designed by people with years of expirience of implementing Data warehouses. Every screen is created to save the development time and increase efficiency"
