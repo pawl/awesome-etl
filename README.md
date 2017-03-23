@@ -7,7 +7,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
     - [Python](#python)
     - [Ruby](#ruby)
     - [Go](#go)
-    - [Java] (#java)
+    - [Java](#java)
     - [Talks/Articles](#talksarticles-1)
     - [Cloud Services](#cloud-services)
     - [Big Data (Hadoop Stack)](#big-data-hadoop-stack)
