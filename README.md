@@ -107,4 +107,5 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Jitterbit](http://www.jitterbit.com/) - "commercial software integration product that facilitates transport between legacy, enterprise, and on-demand computing applications."
 * [Microsoft SSIS](https://technet.microsoft.com/en-us/library/ms141026.aspx) - "a component of the Microsoft SQL Server database software that can be used to perform a broad range of data migration tasks."
 * [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
+* [StreamSets Data Collector](https://streamsets.com/products/sdc/) - "open source software for building any-to-any batch and streaming dataflows"
 * [Talend](https://www.talend.com/products/talend-open-studio) - "an open source application for data integration job design with a graphical development environment"
