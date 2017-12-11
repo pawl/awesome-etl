@@ -95,7 +95,6 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Amazon Simple Workflow Service (SWF)](https://aws.amazon.com/swf/) - "helps developers build, run, and scale background jobs that have parallel or sequential steps. You can think of Amazon SWF as a fully-managed state tracker and task coordinator in the Cloud."
 * [AWS Batch](https://aws.amazon.com/batch/) - Allows executing jobs as containerized applications running on Amazon ECS. Also includes features for dynamically bidding for Spot Instances, integration with existing workflow engines, scheduling, monitoring, dependency modeling, and dynamic scaling/provisioning based on amount of work.
 * [Google Dataflow](https://cloud.google.com/dataflow/what-is-google-cloud-dataflow) - "Google Cloud Dataflow provides a simple, powerful model for building both batch and streaming parallel data processing pipelines."
-* [Microsoft Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/) - "Azure Data Factory is a hybrid data integration service that allows you to create, schedule and orchestrate your ETL/ELT workflows at scale wherever your data lives, in cloud or self-hosted network."
 * [Snaplogic](http://www.snaplogic.com/) - "a self-upgrading, elastic execution grid that streams data between applications, databases, files, social and big data sources."
 
 ## Big Data (Hadoop Stack)
@@ -108,6 +107,5 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - "a toolset for establishing and maintaining enterprise-wide data warehouses. It has a customer base of over 5,000 companies."
 * [Jitterbit](http://www.jitterbit.com/) - "commercial software integration product that facilitates transport between legacy, enterprise, and on-demand computing applications."
 * [Microsoft SSIS](https://technet.microsoft.com/en-us/library/ms141026.aspx) - "a component of the Microsoft SQL Server database software that can be used to perform a broad range of data migration tasks."
-* [Microsoft Azure Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/) - "Connect your business-critical apps and services with Azure Logic Apps, automating your workflows without writing a single line of code."
 * [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
 * [Talend](https://www.talend.com/products/talend-open-studio) - "an open source application for data integration job design with a graphical development environment"
