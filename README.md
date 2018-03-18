@@ -51,9 +51,11 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [MrJob](https://pythonhosted.org/mrjob/) - "lets you write MapReduce jobs in Python 2.6+ and run them on several platforms. The easiest route to writing Python programs that run on Hadoop."
 * [Odo](https://github.com/blaze/odo) - Moves data across containers (SQL, CSV, MongoDB, Pandas, etc). Claims to be the easiest and fastest way to load a CSV into your database.
 * [Pandas](http://pandas.pydata.org/) - Implements dataframes in Python for easier data processing and includes a number of tools that make it easier to extract data from multiple file formats.
+* [parse](https://github.com/r1chardj0n3s/parse) - The opposite of Python's format(). Easier to use than regex, but more limited.
 * [PETL](https://github.com/alimanfoo/petl) - "a general purpose Python package for extracting, transforming and loading tables of data." Slower than Pandas and not as good for larger amounts of data, but simpler.
 * [PyQuery](https://pythonhosted.org/pyquery/) - Extracts data from web pages with a jquery-like syntax.
 * [Retrying](https://github.com/rholder/retrying) - Allows you to add a decorator to any function/method to retry on an exception.
+* [Requests-HTML](https://github.com/kennethreitz/requests-html) - Combines PyQuery, Requests, parse, and other libraries for a pleasant and intuitive web scraping experience.
 * [riko](https://github.com/nerevu/riko) - A python stream processing engine modeled after Yahoo! Pipes.
 * [Ruffus](https://pypi.python.org/pypi/ruffus) - "The Ruffus module is a lightweight way to add support for running computational pipelines."
 * [SQLAlchemy](http://www.sqlalchemy.org/) - "the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL."
