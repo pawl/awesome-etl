@@ -31,7 +31,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 
 ## Java
 * [DataPipeLine](https://www.northconcepts.com/) - Java library for running performance oriented flows
-* [GETL](https://sourceforge.net/projects/getl/) - Groovy toolbox for ETL Tasks from practicing architectures
+* [GETL](https://github.com/ascrus/getl) - Groovy toolbox for ETL Tasks from practicing architectures
 * [JSR 352](https://www.jcp.org/en/jsr/detail?id=352) - Java native API for batch processing
 * [Scriptella](http://scriptella.org/) - Java-XML ETL toolbox for every day use.
 * [Spring Batch](http://projects.spring.io/spring-batch/) - ETL on Spring ecosystem
