@@ -71,6 +71,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [nokogiri](https://github.com/sparklemotion/nokogiri) - an excellent XML parser that "just works"
 * [Square ETL](https://github.com/square/etl)
 * [Sequel](https://github.com/jeremyevans/sequel) - "The Database Toolkit for Ruby"
+* [Embulk](https://github.com/embulk/embulk) - bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services.
 
 ## Go
 * [Crunch](https://github.com/jondot/crunch) - "A fast to develop, fast to run, Go based toolkit for ETL and feature extraction on Hadoop."
