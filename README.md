@@ -43,6 +43,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Bonobo](https://www.bonobo-project.org/) - Simple, modern and atomic data transformation graphs for Python 3.5+.
 * [Bubbles](https://github.com/stiivi/bubbles) - "a Python ETL Framework and set of tools. It can be used for processing, auditing and inspecting data. Focus is on understandability and transparency of the process."
 * [Celery](http://www.celeryproject.org/) - "an asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well."
+* [CronWeasley](https://github.com/alairock/cron-weasley) - Used by several companies(Instructure, Canopy) to manually ETL data in a very cron-like way. 
 * [Dask](https://github.com/blaze/dask) - Ever tried using Pandas to process data that won't fit into memory? Dask makes it easy. Dask also has functionality to make it easy to processing continuous streams of data.
 * [dataset](https://dataset.readthedocs.org/en/latest/) - A wrapper around SQLAlchemy that simplifies database operations (including upserting).
 * [ijson](https://github.com/isagalaev/ijson) - Allows processing JSON iteratively (as a stream) without loading the whole file into memory at once.
