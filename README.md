@@ -19,6 +19,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 ## Workflow Management/Engines
 * [Airflow](https://github.com/airbnb/airflow) - "Use airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed."
 * [Azkaban](https://azkaban.github.io/) - "a batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy to use web user interface to maintain and track your workflows."
+* [d6tflow](https://github.com/d6t/d6tflow) - "quickly build highly effective data science workflows. It is built on top of workflow manager luigi but unlike luigi it is optimized for data science workflows."
 * [Dray.it](http://dray.it/) - "Docker workflow engine. Allows users to separate a workflow into discrete steps each to be handled by a single container."
 * [Luigi](https://github.com/spotify/luigi) - "a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in."
 * [Pinball](https://github.com/pinterest/pinball) - "a scalable workflow management platform developed at Pinterest. It is built based on layered approach."
@@ -43,6 +44,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Bonobo](https://www.bonobo-project.org/) - Simple, modern and atomic data transformation graphs for Python 3.5+.
 * [Bubbles](https://github.com/stiivi/bubbles) - "a Python ETL Framework and set of tools. It can be used for processing, auditing and inspecting data. Focus is on understandability and transparency of the process."
 * [Celery](http://www.celeryproject.org/) - "an asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well."
+* [Databolt](https://github.com/d6t/d6t-python) - Majority of time in data science is spent on tedious tasks unrelated to data analysis. DataBolt simplifies those tasks so you can experience up to 10x productivity gains.
 * [Dask](https://github.com/blaze/dask) - Ever tried using Pandas to process data that won't fit into memory? Dask makes it easy. Dask also has functionality to make it easy to processing continuous streams of data.
 * [dataset](https://dataset.readthedocs.org/en/latest/) - A wrapper around SQLAlchemy that simplifies database operations (including upserting).
 * [ijson](https://github.com/isagalaev/ijson) - Allows processing JSON iteratively (as a stream) without loading the whole file into memory at once.
