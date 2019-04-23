@@ -91,6 +91,9 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * https://deepfriedcode.com/books/darps/index.html
 * http://blog.cloudera.com/wp-content/uploads/2010/01/IntroToPig.pdf
 * http://tech.adroll.com/blog/data/2015/10/15/luigi.html?adrolldev
+* https://www.datadoghq.com/blog/engineering/highly-reliable-data-pipelines/
+* https://www.zillow.com/data-science/airflow-at-zillow/
+* https://medium.com/snaptravel/building-a-data-pipeline-to-handle-50m-events-day-with-a-startup-budget-part-1-636399bd00aa
 
 ## Cloud Services
 * [Alteryx](http://www.alteryx.com/) - Cloud ETL tool with an interface similar to GUI ETL tools.
