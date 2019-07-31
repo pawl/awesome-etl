@@ -25,6 +25,8 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Pinball](https://github.com/pinterest/pinball) - "a scalable workflow management platform developed at Pinterest. It is built based on layered approach."
 * [TaskFlow](https://wiki.openstack.org/wiki/TaskFlow) - "allows the creation of lightweight task objects and/or functions that are combined together into flows (aka: workflows) in a declarative manner. It includes engines for running these flows in a manner that can be stopped, resumed, and safely reverted."
 * [Toil](https://toil.readthedocs.io/en/latest/) - Similar to Luigi, jobs are classes with a run method. Supports executing jobs on other machines (workers) which can include AWS spot instances.
+* [Zenaton](https://zenaton.com) - Workflow engine for orchestrating jobs, data and events across your applications and third party services
+
 
 ## Job Scheduling
 * [Chronos](https://github.com/mesos/chronos) - "a distributed and fault-tolerant scheduler that runs on top of Apache Mesos that can be used for job orchestration."
