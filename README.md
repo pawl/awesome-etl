@@ -4,6 +4,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 - [Awesome ETL](#awesome-etl)
     - [Workflow Management/Engines](#workflow-managementengines)
     - [Job Scheduling](#job-scheduling)
+    - [Monitoring](#monitoring)
     - [Python](#python)
     - [Ruby](#ruby)
     - [Go](#go)
@@ -30,6 +31,10 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Chronos](https://github.com/mesos/chronos) - "a distributed and fault-tolerant scheduler that runs on top of Apache Mesos that can be used for job orchestration."
 * [Dagobah](https://github.com/thieman/dagobah) - "a simple dependency-based job scheduler written in Python. Dagobah allows you to schedule periodic jobs using Cron syntax. Each job then kicks off a series of tasks (subprocesses) in an order defined by a dependency graph you can easily draw with click-and-drag in the web interface."
 * [Jenkins](https://github.com/jenkinsci/jenkins) - "the leading open-source automation server. Built with Java, it provides over 1000 plugins to support automating virtually anything, so that humans can actually spend their time doing things machines cannot."
+
+## Monitoring
+* [intermix.io](https://intermix.io) - "intermix.io is the “missing” Amazon Redshift console - it’s an analytics product for data engineers to find and re-write slow queries and gives actionable recommendations to optimize data pipelines"
+
 
 ## Java
 * [GETL](https://github.com/ascrus/getl) - Groovy toolbox for ETL Tasks from practicing architectures
