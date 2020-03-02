@@ -25,6 +25,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Pinball](https://github.com/pinterest/pinball) - "a scalable workflow management platform developed at Pinterest. It is built based on layered approach."
 * [TaskFlow](https://wiki.openstack.org/wiki/TaskFlow) - "allows the creation of lightweight task objects and/or functions that are combined together into flows (aka: workflows) in a declarative manner. It includes engines for running these flows in a manner that can be stopped, resumed, and safely reverted."
 * [Toil](https://toil.readthedocs.io/en/latest/) - Similar to Luigi, jobs are classes with a run method. Supports executing jobs on other machines (workers) which can include AWS spot instances.
+* [Argo](https://argoproj.github.io/) - Container based workflow management system for Kubernetes. Workflows are specified as a directed acyclic graph (DAG), and each step is executed on a container, and the latter is run on a Kubernetes Pod. There is also support for Airflow DAGs.
 
 ## Job Scheduling
 * [Chronos](https://github.com/mesos/chronos) - "a distributed and fault-tolerant scheduler that runs on top of Apache Mesos that can be used for job orchestration."
