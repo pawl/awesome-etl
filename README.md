@@ -70,7 +70,6 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 ## Ruby
 * [Kiba](https://github.com/thbar/kiba) - "Data processing & ETL framework for Ruby"
 * [nokogiri](https://github.com/sparklemotion/nokogiri) - an excellent XML parser that "just works"
-* [Square ETL](https://github.com/square/etl)
 * [Sequel](https://github.com/jeremyevans/sequel) - "The Database Toolkit for Ruby"
 * [Embulk](https://github.com/embulk/embulk) - "a parallel bulk data loader that helps data transfer between various storages, databases, NoSQL and cloud services."
 
