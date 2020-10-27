@@ -65,7 +65,6 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [xmltodict](https://github.com/martinblech/xmltodict) - Makes working with XML as easy as working with JSON. Also allows streaming so you don't run out of memory on large XML files. Great for simple operations on small XML files.
 
 ### Talks/Articles
-* https://vimeo.com/73628111
 * http://www.parsely.com/misc/slides/streamparse/notes/
 
 ## Ruby
