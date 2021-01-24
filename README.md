@@ -63,6 +63,8 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [SQLAlchemy](http://www.sqlalchemy.org/) - "the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL."
 * [Toolz](https://toolz.readthedocs.org/en/latest/) - "A functional standard library for python." Includes a `pipe` function that allows you to pipe a value through a sequence of functions. There's also a cython implementation here: https://github.com/pytoolz/cytoolz
 * [xmltodict](https://github.com/martinblech/xmltodict) - Makes working with XML as easy as working with JSON. Also allows streaming so you don't run out of memory on large XML files. Great for simple operations on small XML files.
+### Tools
+* [python-etl](https://github.com/felipensp/python-etl) - ETL tool written in Python that provides an specific DSL which is translated to Python script to handle input data
 
 ### Talks/Articles
 * http://www.parsely.com/misc/slides/streamparse/notes/
