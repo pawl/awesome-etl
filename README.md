@@ -27,6 +27,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Toil](https://toil.readthedocs.io/en/latest/) - Similar to Luigi, jobs are classes with a run method. Supports executing jobs on other machines (workers) which can include AWS spot instances.
 * [Argo](https://argoproj.github.io/) - Container based workflow management system for Kubernetes. Workflows are specified as a directed acyclic graph (DAG), and each step is executed on a container, and the latter is run on a Kubernetes Pod. There is also support for Airflow DAGs.
 * [Dagster](https://dagster.io) - "Dagster is a data orchestrator for machine learning, analytics, and ETL. It lets you define pipelines in terms of the data flow between reusable, logical components, then test locally and run anywhere. With a unified view of pipelines and the assets they produce, Dagster can schedule and orchestrate Pandas, Spark, SQL, or anything else that Python can invoke."
+* [Prefect](https://www.prefect.io/) - Prefect is a relatively new workflow management system for Python. It is similar to Airflow and Luigi.
 
 ## Job Scheduling
 * [Chronos](https://github.com/mesos/chronos) - "a distributed and fault-tolerant scheduler that runs on top of Apache Mesos that can be used for job orchestration."
