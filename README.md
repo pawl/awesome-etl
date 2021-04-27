@@ -76,6 +76,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 ## Go
 * [Crunch](https://github.com/jondot/crunch) - "A fast to develop, fast to run, Go based toolkit for ETL and feature extraction on Hadoop."
 * [Pachyderm](https://github.com/pachyderm/pachyderm) - A system for running processing pipeline jobs in containers and version controlling all data using a commit-based distributed filesystem.
+* [lakeFS](https://github.com/treeverse/lakeFS) - Repeatable, atomic and versioned data lake on top of object storage.
 
 ## Javascript
 * [Datapumps](https://github.com/agmen-hu/node-datapumps) - "Use pumps to import, export, transform or transfer data."
