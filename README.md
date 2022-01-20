@@ -49,7 +49,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Dask](https://github.com/blaze/dask) - Ever tried using Pandas to process data that won't fit into memory? Dask makes it easy. Dask also has functionality to make it easy to processing continuous streams of data.
 * [dataset](https://dataset.readthedocs.org/en/latest/) - A wrapper around SQLAlchemy that simplifies database operations (including upserting).
 * [ijson](https://github.com/ICRAR/ijson) - Allows processing JSON iteratively (as a stream) without loading the whole file into memory at once.
-* [Joblib](https://pythonhosted.org/joblib/) - "a set of tools to provide lightweight pipelining in Python."
+* [Joblib](https://joblib.readthedocs.io/) - "a set of tools to provide lightweight pipelining in Python."
 * [lxml](https://github.com/lxml/lxml) - Parses XML using C libraries libxml2 and libxslt, so it's very fast. Also supports a "recover" mode that will try its best to use invalid xml or discard it. Great for large XML files and advanced functionality (like using xpaths). IBM also has a great article on high-performance parsing with lxml here: http://www.ibm.com/developerworks/library/x-hiperfparse/
 * [MrJob](https://pythonhosted.org/mrjob/) - "lets you write MapReduce jobs in Python 2.6+ and run them on several platforms. The easiest route to writing Python programs that run on Hadoop."
 * [Odo](https://github.com/blaze/odo) - Moves data across containers (SQL, CSV, MongoDB, Pandas, etc). Claims to be the easiest and fastest way to load a CSV into your database.
