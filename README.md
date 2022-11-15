@@ -116,3 +116,4 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Talend](https://www.talend.com/products/talend-open-studio) - "an open source application for data integration job design with a graphical development environment"
 * [N8n](https://github.com/n8n-io/n8n) - "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services."
 * [CDAP](https://cdap.io/) - "Use Cask Data Application Platform to visually build and manage data applications in hybrid and multi-cloud environments."
+* [Linx](https://linx.software) - Low-code all-purpose platform to build comprehensive, flexible, and customizable ETL processes with built-in orchestrational and scheduling features.
