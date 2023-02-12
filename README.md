@@ -78,6 +78,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Benthos](https://www.benthos.dev/) - "The stream processor for mundane tasks."
 * [Crunch](https://github.com/jondot/crunch) - "A fast to develop, fast to run, Go based toolkit for ETL and feature extraction on Hadoop."
 * [Pachyderm](https://github.com/pachyderm/pachyderm) - A system for running processing pipeline jobs in containers and version controlling all data using a commit-based distributed filesystem.
+* [CloudQuery](https://github.com/cloudquery/cloudquery) - "Open source high performance ELT Framework."
 
 ## Javascript
 * [Datapumps](https://github.com/agmen-hu/node-datapumps) - "Use pumps to import, export, transform or transfer data."
