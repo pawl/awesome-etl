@@ -57,6 +57,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [parse](https://github.com/r1chardj0n3s/parse) - The opposite of Python's format(). Easier to use than regex, but more limited.
 * [PETL](https://github.com/petl-developers/petl) - "a general purpose Python package for extracting, transforming and loading tables of data." Slower than Pandas and not as good for larger amounts of data, but simpler.
 * [PyQuery](https://pythonhosted.org/pyquery/) - Extracts data from web pages with a jquery-like syntax.
+* [polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 * [Retrying](https://github.com/rholder/retrying) - Allows you to add a decorator to any function/method to retry on an exception.
 * [Requests-HTML](https://github.com/kennethreitz/requests-html) - Combines PyQuery, Requests, parse, and other libraries for a pleasant and intuitive web scraping experience.
 * [riko](https://github.com/nerevu/riko) - A python stream processing engine modeled after Yahoo! Pipes.
