@@ -80,6 +80,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Crunch](https://github.com/jondot/crunch) - "A fast to develop, fast to run, Go based toolkit for ETL and feature extraction on Hadoop."
 * [Pachyderm](https://github.com/pachyderm/pachyderm) - A system for running processing pipeline jobs in containers and version controlling all data using a commit-based distributed filesystem.
 * [CloudQuery](https://github.com/cloudquery/cloudquery) - An open source high performance ELT Framework.
+* [Selefra](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
 ## Javascript
 * [Datapumps](https://github.com/agmen-hu/node-datapumps) - "Use pumps to import, export, transform or transfer data."
