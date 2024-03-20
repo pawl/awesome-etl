@@ -46,6 +46,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Blaze](https://github.com/blaze/blaze) - "translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems."
 * [Bonobo](https://www.bonobo-project.org/) - Simple, modern and atomic data transformation graphs for Python 3.5+.
 * [Celery](http://www.celeryproject.org/) - "an asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well."
+* [Celery Director](https://github.com/ovh/celery-director) -  Simple and rapid framework to build workflows using Celery.
 * [Dask](https://github.com/blaze/dask) - Ever tried using Pandas to process data that won't fit into memory? Dask makes it easy. Dask also has functionality to make it easy to processing continuous streams of data.
 * [dataset](https://dataset.readthedocs.org/en/latest/) - A wrapper around SQLAlchemy that simplifies database operations (including upserting).
 * [ijson](https://github.com/ICRAR/ijson) - Allows processing JSON iteratively (as a stream) without loading the whole file into memory at once.
