@@ -22,6 +22,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [Dray.it](http://dray.it/) - "Docker workflow engine. Allows users to separate a workflow into discrete steps each to be handled by a single container."
 * [Luigi](https://github.com/spotify/luigi) - "a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in."
 * [Mara Pipelines](https://github.com/mara/mara-pipelines) - "A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow"
+* [Pathway](https://github.com/pathwaycom/pathway/) - "Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources."
 * [Pinball](https://github.com/pinterest/pinball) - "a scalable workflow management platform developed at Pinterest. It is built based on layered approach."
 * [prefect](https://github.com/PrefectHQ/prefect) - "a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine. Users organize Tasks into Flows, and Prefect takes care of the rest."
 * [TaskFlow](https://wiki.openstack.org/wiki/TaskFlow) - "allows the creation of lightweight task objects and/or functions that are combined together into flows (aka: workflows) in a declarative manner. It includes engines for running these flows in a manner that can be stopped, resumed, and safely reverted."
