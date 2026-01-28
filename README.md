@@ -17,6 +17,7 @@ A curated list of notable ETL (extract, transform, load) frameworks, libraries a
 * [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
 
 ## Workflow Management/Engines
+* [Bruin](https://github.com/bruin-data/bruin) - "Full ELT pipeline in a single tool: ingest from 50+ sources, transform with SQL or Python, validate with built-in data quality checks. Deploys to BigQuery, Snowflake, Postgres, Redshift. No separate orchestrator needed."
 * [Airflow](https://github.com/apache/airflow) - "Use airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed."
 * [Azkaban](https://azkaban.github.io/) - "a batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy to use web user interface to maintain and track your workflows."
 * [Dray.it](http://dray.it/) - "Docker workflow engine. Allows users to separate a workflow into discrete steps each to be handled by a single container."
