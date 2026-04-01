@@ -38,6 +38,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 ### Libraries
 - [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - "a Python library for pulling data out of HTML and XML files."
 - [Celery](https://docs.celeryq.dev/) - "an asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well."
+- [DataScreenIQ](https://appdeviq.github.io/datascreeniq-python/)- " A Python SDK  for real-time data quality firewall for pipelines and APIs. Screens incoming rows for schema drift, null spikes, type mismatches, and anomalies with PASS / WARN / BLOCK decisions in milliseconds
 - [Dask](https://github.com/dask/dask) - "a flexible parallel computing library for analytics."
 - [dataset](https://dataset.readthedocs.org/en/latest/) - A wrapper around SQLAlchemy that simplifies database operations (including upserting).
 - [dbt-core](https://github.com/dbt-labs/dbt-core) - "enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
