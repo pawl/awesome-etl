@@ -5,6 +5,7 @@ The premise of this list: you don't need fancy, specialized ETL frameworks. Well
 
 Open source tools are strongly preferred. Proprietary or restrictively licensed tools are only included when they're mainstream enough to be genuinely hard to ignore. See CONTRIBUTING.md for full inclusion criteria.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for ETL pipeline workflow orchestration, automated data management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Workflow Management/Engines](#workflow-managementengines)
