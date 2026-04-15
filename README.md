@@ -40,6 +40,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 - [Celery](https://docs.celeryq.dev/) - "an asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well."
 - [Dask](https://github.com/dask/dask) - "a flexible parallel computing library for analytics."
 - [dataset](https://dataset.readthedocs.org/en/latest/) - A wrapper around SQLAlchemy that simplifies database operations (including upserting).
+- [DataSpoc Pipe](https://github.com/dataspoclab/dataspoc-pipe) - "a data ingestion engine that connects Singer taps to Parquet files in cloud buckets (S3, GCS, Azure), with streaming, incremental extraction, and auto-catalog."
 - [dbt-core](https://github.com/dbt-labs/dbt-core) - "enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
 - [dlt](https://dlthub.com/docs) - "an open-source Python library that loads data from various, often messy data sources into well-structured datasets."
 - [DuckDB](https://duckdb.org) - "an analytical in-process SQL database management system."
