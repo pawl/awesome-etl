@@ -13,6 +13,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 - [Python](#python)
 - [Ruby](#ruby)
 - [Go](#go)
+- [JavaScript / Node.js](#javascript--nodejs)
 - [Cloud Services](#cloud-services)
 - [Big Data (Hadoop Stack)](#big-data-hadoop-stack)
 - [ETL Tools (GUI)](#etl-tools-gui)
@@ -71,6 +72,9 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 - [CloudQuery](https://github.com/cloudquery/cloudquery) - "a cloud asset inventory built for platform teams. Sync your cloud infrastructure metadata into your data warehouse, powering insights and automation."
 - [Pachyderm](https://github.com/pachyderm/pachyderm) - "provides parallelized processing of multi-stage, language-agnostic pipelines with data versioning and data lineage tracking."
 - [Redpanda Connect](https://www.redpanda.com/connect) - "a declarative data streaming and integration tool with 300+ pre-built connectors, configured via YAML."
+
+## JavaScript / Node.js
+- [data-genie](https://github.com/pujansrt/data-genie) - "A high-performant, streaming-first ETL Engine for Node.js and TypeScript, designed for processing massive datasets with a constant memory footprint."
 
 ## Cloud Services
 - [Airbyte](https://airbyte.com/) - "Airbyte is an open-source data integration engine that helps you consolidate your data in your data warehouses, lakes and databases."
