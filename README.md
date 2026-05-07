@@ -72,6 +72,9 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 - [Pachyderm](https://github.com/pachyderm/pachyderm) - "provides parallelized processing of multi-stage, language-agnostic pipelines with data versioning and data lineage tracking."
 - [Redpanda Connect](https://www.redpanda.com/connect) - "a declarative data streaming and integration tool with 300+ pre-built connectors, configured via YAML."
 
+## JavaScript / TypeScript
+- [EDIFlow](https://github.com/ediflow-lib/core) - Parse, validate, and build EDI messages (EDIFACT, X12, HIPAA, EANCOM) in TypeScript/Node.js. Extract structured data from 1294+ EDI message types into typed objects.
+
 ## Cloud Services
 - [Airbyte](https://airbyte.com/) - "Airbyte is an open-source data integration engine that helps you consolidate your data in your data warehouses, lakes and databases."
 - [Alteryx](http://www.alteryx.com/) - "combines data preparation, data blending, and analytics — predictive, statistical, and spatial — in a visual workflow designer."
