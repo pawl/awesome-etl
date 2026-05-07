@@ -42,6 +42,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 - [dataset](https://dataset.readthedocs.org/en/latest/) - A wrapper around SQLAlchemy that simplifies database operations (including upserting).
 - [dbt-core](https://github.com/dbt-labs/dbt-core) - "enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
 - [dlt](https://dlthub.com/docs) - "an open-source Python library that loads data from various, often messy data sources into well-structured datasets."
+- [drt](https://github.com/drt-hub/drt) - "an OSS Reverse ETL CLI. Sync data from warehouses to business tools via YAML."
 - [DuckDB](https://duckdb.org) - "an analytical in-process SQL database management system."
 - [Great Expectations](https://docs.greatexpectations.io/) - "a Python library for validating, documenting, and profiling your data to maintain quality and improve communication between teams about data and data pipelines."
 - [hamilton](https://github.com/DAGWorks-Inc/hamilton) - "helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does."
