@@ -99,6 +99,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 - [Microsoft SSIS](https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services) - "a component of the Microsoft SQL Server database software that can be used to perform a broad range of data migration tasks."
 - [N8n](https://github.com/n8n-io/n8n) - "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services."
 - [Pentaho Data Integration (PDI)](https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics.html) - "a graphical ETL tool for designing data integration workflows using a drag-and-drop interface, also known as Kettle."
+- [Syncle](https://syncle.dev) - A self-hosted web interface for syncing rows between PostgreSQL, MySQL, SQLite, MongoDB and Redis, by one-off backfill, cursor polling, or change data capture.
 
 ## Further Reading
 - [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) - Joe Reis & Matt Housley's tool-agnostic overview of the data engineering lifecycle, including the ETL-to-ELT shift (2022).
