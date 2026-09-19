@@ -104,6 +104,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 - [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) - Joe Reis & Matt Housley's tool-agnostic overview of the data engineering lifecycle, including the ETL-to-ELT shift (2022).
 - [The Rise of Data Contracts](https://dataproducts.substack.com/p/the-rise-of-data-contracts) - Chad Sanderson on formalizing schema and quality guarantees between data producers and consumers.
 - [ELT 101: The Why and What of ELT](https://meltano.com/blog/elt-101-the-why-and-what-of-elt-or-the-why-not-of-etl/) - Why cheap cloud warehouse compute flipped the ETL paradigm to ELT.
+- [ETL Process Optimization: 12 Proven Techniques](https://www.dsstream.com/post/etl-process-optimization) - 12 techniques with SQL examples, a tools table and a 30-60-90 day plan.
 
 ## Contributing
 
