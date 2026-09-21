@@ -78,6 +78,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 - [AWS Batch](https://aws.amazon.com/batch/) - "enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS."
 - [AWS Glue](https://aws.amazon.com/glue/) - "a serverless data integration service that makes it easy for analytics users to discover, prepare, move, and integrate data from multiple sources."
 - [Cloud Data Fusion](https://cloud.google.com/data-fusion) - "Fully managed, cloud-native data integration platform."
+- [Estuary](https://estuary.dev/) - "An ETL data pipeline platform that combines batch and real-time data."
 - [Fivetran](https://www.fivetran.com/) - "automates data movement from disparate sources into your destination."
 - [Google Dataflow](https://cloud.google.com/products/dataflow) - "Google Cloud Dataflow provides a simple, powerful model for building both batch and streaming parallel data processing pipelines."
 - [Hevo](https://hevodata.com/) - "a no-code data movement platform that is usable by your most technical as well as your non-technical and business users."
