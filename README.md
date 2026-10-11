@@ -69,6 +69,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 
 ## Go
 - [CloudQuery](https://github.com/cloudquery/cloudquery) - "a cloud asset inventory built for platform teams. Sync your cloud infrastructure metadata into your data warehouse, powering insights and automation."
+- [OLake](https://github.com/datazip-inc/olake) - Replicates Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg with CDC, full refresh and incremental sync, plus Iceberg table maintenance.
 - [Pachyderm](https://github.com/pachyderm/pachyderm) - "provides parallelized processing of multi-stage, language-agnostic pipelines with data versioning and data lineage tracking."
 - [Redpanda Connect](https://www.redpanda.com/connect) - "a declarative data streaming and integration tool with 300+ pre-built connectors, configured via YAML."
 
