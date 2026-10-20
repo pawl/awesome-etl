@@ -92,6 +92,8 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 - [Spark](https://spark.apache.org/) - "a fast and general-purpose cluster computing system. It provides high-level APIs in Scala, Java, and Python that make parallel jobs easy to write, and an optimized engine that supports general computation graphs. It also supports a rich set of higher-level tools including Shark (Hive on Spark), MLlib for machine learning, GraphX for graph processing, and Spark Streaming."
 
 ## ETL Tools (GUI)
+
+- [Tidify](https://tidify-app.netlify.app) - Browser-based local-first CSV and Excel data cleaning & standardization GUI ([Source](https://github.com/D0ctorX/tidy)).
 *Warning*: If you're already familiar with a scripting language, GUI ETL tools are not a good replacement for a well structured application written with a scripting language. These tools lack flexibility and are a good example of the ["inner-platform effect"](https://en.wikipedia.org/wiki/Inner-platform_effect). With a large project, you will most likely run into instances where "the tool doesn't do that" and end up implementing something hacky with a script run by the GUI ETL tool. Also, the GUI can conceal complexity and the files these tools generate are impossible to code review. However, the GUI and out-of-the-box functionality can make some tasks simpler, especially for people not comfortable with writing code.
 - [Apache NiFi](https://nifi.apache.org/) - "a rich, web-based interface for designing, controlling, and monitoring a dataflow."
 - [CDAP](https://cdap.io/) - "Use Cask Data Application Platform to visually build and manage data applications in hybrid and multi-cloud environments."
