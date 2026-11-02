@@ -82,6 +82,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 - [Google Dataflow](https://cloud.google.com/products/dataflow) - "Google Cloud Dataflow provides a simple, powerful model for building both batch and streaming parallel data processing pipelines."
 - [Hevo](https://hevodata.com/) - "a no-code data movement platform that is usable by your most technical as well as your non-technical and business users."
 - [Microsoft Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/) - "A fully managed, serverless data integration service that helps you visually integrate data sources with more than 90 built-in, maintenance-free connectors."
+- [Polytomic](https://www.polytomic.com/) - "Polytomic combines ETL and Reverse ETL in a single platform so you can move data to and from your data warehouse."
 - [Stitch](https://www.stitchdata.com/) - "Stitch is a cloud-first, open source platform for rapidly moving data. A simple, powerful ETL service, Stitch connects to all your data sources – from databases like MySQL and MongoDB, to SaaS applications like Salesforce and Zendesk – and replicates that data to a destination of your choosing."
 
 ## Big Data (Hadoop Stack)
